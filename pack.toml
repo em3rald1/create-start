@@ -1,0 +1,13 @@
+name = "create-start"
+author = "pink"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2c7dcfbddf59223e00d4a74b3378d718c510d9819d559d160f0eb3b8df161c28"
+
+[versions]
+fabric = "0.16.12"
+minecraft = "1.20.1"
